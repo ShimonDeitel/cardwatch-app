@@ -1,0 +1,42 @@
+{
+  "identifier": "cardwatch",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [
+    {
+      "id": "21500000",
+      "localizations": [],
+      "name": "Cardwatch Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "cardwatch_pro_monthly",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlocks the interest cost calculator and payoff reminders.",
+              "displayName": "Cardwatch Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "cardwatch_pro_monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Cardwatch Pro Monthly",
+          "subscriptionGroupID": "21500000",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
